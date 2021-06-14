@@ -1,4 +1,4 @@
-class Kubectl-karbon < Formula
+class Kubectl_karbon < Formula
     desc "kubectl karbon plugin - Easy connect to Nutanix karbon clusters"
     homepage "https://github.com/nutanix/kubectl-karbon"
     url "https://github.com/nutanix/kubectl-karbon/releases/download/v0.2.0/kubectl-karbon_v0.2.0_darwin_amd64.tar.gz"
