@@ -5,7 +5,7 @@ class KubectlKarbon < Formula
     sha256 "866b4398547173433163e33912c2fcae91415b6fef2c434a498bceb2afa69fcf"
     
     def install
-      bin.install "bin/kubectl-karbon"
+      bin.install "kubectl-karbon"
     end
   
     test do
